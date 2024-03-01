@@ -1,0 +1,13 @@
+{
+  "name": "rtw-whats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chromedriver": "^122.0.4",
+    "selenium-webdriver": "^4.18.1"
+  }
+}
